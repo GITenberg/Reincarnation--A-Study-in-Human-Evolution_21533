@@ -1,0 +1,38 @@
+_repo: Reincarnation--A-Study-in-Human-Evolution_21533
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rothwell, Fred
+    aliases:
+    - Rothwell, F. (Frederick)
+    - Rothwell, Frederick
+    birthdate: 1869
+    gutenberg_agent_id: '1464'
+    url: http://www.gutenberg.org/2009/agents/1464
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pascal, Théophile
+    alias: Pascal, Theophile
+    birthdate: 1860
+    deathdate: 1909
+    gutenberg_agent_id: '24769'
+    url: http://www.gutenberg.org/2009/agents/24769
+description: ''
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Reincarnation'
+- !lcc 'BL'
+- !lcsh 'Theosophy'
+title: 'Reincarnation: A Study in Human Evolution'
+url: http://www.gutenberg.org/ebooks/21533
