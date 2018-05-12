@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '24769'
     url: http://www.gutenberg.org/2009/agents/24769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21533#Reincarnation--A-Study-in-Human-Evolution
 gutenberg_issued: '2007-05-19'
 gutenberg_type: Text
 identifiers:
